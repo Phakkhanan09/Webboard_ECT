@@ -6,7 +6,7 @@
     <title>Verify<form</title>
 </head>
 <body>
-<h1 style="text-align: center;">Webboard KakKak</h1>
+<h1 style="text-align: center;">webboard sin</h1>
     <hr>
     <div style="text-align: center;">
     เข้าสู่ระบบด้วย <br>
